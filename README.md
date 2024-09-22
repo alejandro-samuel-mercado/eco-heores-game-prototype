@@ -27,3 +27,4 @@ Para hacer un juego no siempre es necesario "reinventar la rueda", es decir que 
 * **GitHub:** En esta plataforma muchas personas deciden subir los códigos o archivos fuentes de sus proyectos para compartirlos con el mundo de manera abierta. En este protal puedes encontrar muchos scripts o proyectos en Unity3D de los usuarios de la plataforma. Por lo tanto puedes econtrar un script que alguien m;as desarrollo y que sirve para una función especifica que tu estés necesitando. Link del portal web: https://github.com/
 
 Este taller esta basado en una de las presentacion que se hizo en el marco del Evento Unite 2014 en el Training Day y en el cual se hizo un taller con este proyecto: http://unity3d.com/es/learn/tutorials/projects/survival-shooter/environment?playlist=17144
+# Eco-Heores
